@@ -5,7 +5,7 @@
 module.exports = {
   im_command: '-adaptive-resize',
   remove_original_file: 'no',
-  prefix: 'res_',
+  prefix: '',
   size: '2048x2048>', // to have proportional resize on any side
   workers: 'auto', // number or 'auto' - will be guessed
   exclude_files: {
